@@ -12,3 +12,4 @@ Desarrollo de Aplicación web
 5:20 pm Creaión de app basada en streamlit
 6:20 pm Carga de los archivos modificados
 6:25 pm Push a Git
+URL: https://proyecto-sprint-7-eacb.onrender.com
